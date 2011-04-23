@@ -53,8 +53,12 @@ textarea, select {
 
 input.text,
 input.title   { width: 300px; padding:0.454545454545em; }
-input.title   { font-size:1.5em; padding:0.208333333333em;}
-textarea      { width: 390px; height: 250px; padding:0.454545454545em; }
+input.title   { font-size:1.5em; padding:0.208333333333em; margin:0.7em 0 0.7em 0;}
+textarea      { width: 390px; height: 22.7272727272727272em; padding:0.454545454545em; }
+
+form p {
+	margin: 0 0 0 0;
+}
 
 /* 
   This is to be used on forms where a variety of elements are 
