@@ -34,6 +34,7 @@ input[type=text], input[type=password],
 input.text, input.title,
 textarea {
   background-color:#fff;
+	font-size: 0.9166666666666666em;
   border:1px solid #bbb;
   color:#000; 
 }
